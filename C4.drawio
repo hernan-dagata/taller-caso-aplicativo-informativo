@@ -1,0 +1,237 @@
+<mxfile host="app.diagrams.net" modified="2023-12-04T23:10:40.805Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="GSZWyPxfDv8-Pu9Ruz4s" version="22.1.5" type="google">
+  <diagram name="Página-1" id="uKX0zI-iyvB2bd9EYMMx">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jFpg0H3RAi4M9UBmwPfo-28" value="" style="group" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="470" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="jFpg0H3RAi4M9UBmwPfo-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jFpg0H3RAi4M9UBmwPfo-28">
+          <mxGeometry width="470" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="jFpg0H3RAi4M9UBmwPfo-26" value="" style="group" connectable="0" vertex="1" parent="jFpg0H3RAi4M9UBmwPfo-28">
+          <mxGeometry x="26" y="54" width="420" height="310" as="geometry" />
+        </mxCell>
+        <UserObject label="[Software system]&lt;br&gt;&lt;br&gt;Sistema de Gestión de Horarios" treeRoot="1" id="jFpg0H3RAi4M9UBmwPfo-3">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};rounded=1;" vertex="1" parent="jFpg0H3RAi4M9UBmwPfo-26">
+            <mxGeometry x="157" y="220" width="120" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="jFpg0H3RAi4M9UBmwPfo-9" value="" style="group" connectable="0" vertex="1" parent="jFpg0H3RAi4M9UBmwPfo-26">
+          <mxGeometry y="40" width="100" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="jFpg0H3RAi4M9UBmwPfo-6" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="jFpg0H3RAi4M9UBmwPfo-9">
+          <mxGeometry x="10" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jFpg0H3RAi4M9UBmwPfo-7" value="Administrador" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="jFpg0H3RAi4M9UBmwPfo-9">
+          <mxGeometry y="80" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jFpg0H3RAi4M9UBmwPfo-8" value="[Person]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="jFpg0H3RAi4M9UBmwPfo-9">
+          <mxGeometry x="15" y="40" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jFpg0H3RAi4M9UBmwPfo-14" value="" style="group" connectable="0" vertex="1" parent="jFpg0H3RAi4M9UBmwPfo-26">
+          <mxGeometry x="320" y="40" width="100" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="jFpg0H3RAi4M9UBmwPfo-15" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="jFpg0H3RAi4M9UBmwPfo-14">
+          <mxGeometry x="10" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jFpg0H3RAi4M9UBmwPfo-16" value="Docentes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="jFpg0H3RAi4M9UBmwPfo-14">
+          <mxGeometry x="15" y="80" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jFpg0H3RAi4M9UBmwPfo-17" value="[Person]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="jFpg0H3RAi4M9UBmwPfo-14">
+          <mxGeometry x="15" y="40" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jFpg0H3RAi4M9UBmwPfo-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;endArrow=none;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.529;entryY=1.1;entryDx=0;entryDy=0;endFill=0;curved=1;entryPerimeter=0;startFill=1;" edge="1" parent="jFpg0H3RAi4M9UBmwPfo-26" source="jFpg0H3RAi4M9UBmwPfo-3" target="jFpg0H3RAi4M9UBmwPfo-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jFpg0H3RAi4M9UBmwPfo-30" value="Verifica y &lt;br&gt;solicita ajustes&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="jFpg0H3RAi4M9UBmwPfo-23">
+          <mxGeometry x="-0.0864" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jFpg0H3RAi4M9UBmwPfo-18" value="" style="group" connectable="0" vertex="1" parent="jFpg0H3RAi4M9UBmwPfo-26">
+          <mxGeometry x="160" width="100" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="jFpg0H3RAi4M9UBmwPfo-19" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="jFpg0H3RAi4M9UBmwPfo-18">
+          <mxGeometry x="10" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jFpg0H3RAi4M9UBmwPfo-20" value="Estudiantes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="jFpg0H3RAi4M9UBmwPfo-18">
+          <mxGeometry x="5" y="80" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jFpg0H3RAi4M9UBmwPfo-21" value="[Person]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="jFpg0H3RAi4M9UBmwPfo-18">
+          <mxGeometry x="15" y="40" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jFpg0H3RAi4M9UBmwPfo-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;endArrow=none;endFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.578;entryY=1.133;entryDx=0;entryDy=0;entryPerimeter=0;startFill=1;" edge="1" parent="jFpg0H3RAi4M9UBmwPfo-26" source="jFpg0H3RAi4M9UBmwPfo-3" target="jFpg0H3RAi4M9UBmwPfo-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jFpg0H3RAi4M9UBmwPfo-31" value="Visualiza" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="jFpg0H3RAi4M9UBmwPfo-22">
+          <mxGeometry x="0.0376" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jFpg0H3RAi4M9UBmwPfo-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;endArrow=none;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.52;entryY=0.933;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;curved=1;startFill=1;" edge="1" parent="jFpg0H3RAi4M9UBmwPfo-26" source="jFpg0H3RAi4M9UBmwPfo-3" target="jFpg0H3RAi4M9UBmwPfo-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jFpg0H3RAi4M9UBmwPfo-29" value="Gestiona" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="jFpg0H3RAi4M9UBmwPfo-24">
+          <mxGeometry x="0.0508" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jFpg0H3RAi4M9UBmwPfo-27" value="Diagrama de contexto" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="jFpg0H3RAi4M9UBmwPfo-28">
+          <mxGeometry x="166" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jFpg0H3RAi4M9UBmwPfo-62" value="" style="group" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="60" y="630" width="680" height="650" as="geometry" />
+        </mxCell>
+        <mxCell id="jFpg0H3RAi4M9UBmwPfo-59" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jFpg0H3RAi4M9UBmwPfo-62">
+          <mxGeometry width="680" height="650" as="geometry" />
+        </mxCell>
+        <mxCell id="jFpg0H3RAi4M9UBmwPfo-61" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;strokeColor=default;dashed=1;dashPattern=12 12;" vertex="1" parent="jFpg0H3RAi4M9UBmwPfo-62">
+          <mxGeometry x="24" y="200" width="640" height="415" as="geometry" />
+        </mxCell>
+        <mxCell id="jFpg0H3RAi4M9UBmwPfo-34" value="Sistema de Gestión de Horarios" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="jFpg0H3RAi4M9UBmwPfo-62">
+          <mxGeometry y="620" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jFpg0H3RAi4M9UBmwPfo-35" value="WEB API&lt;br&gt;[Contenedor: Java - Spring boot]&lt;br&gt;&lt;br&gt;Permite desarrollar toda la lógica de negocio y acceder a esta a través de API JSON.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jFpg0H3RAi4M9UBmwPfo-62">
+          <mxGeometry x="430" y="470" width="220" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="jFpg0H3RAi4M9UBmwPfo-36" value="BASE DE DATOS&lt;br&gt;[Contenedor: base de datos relacional]&lt;br&gt;&lt;br&gt;Guarda los datos de Docentes, Estudiantes y Horarios" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="jFpg0H3RAi4M9UBmwPfo-62">
+          <mxGeometry x="40.5" y="475" width="229.5" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jFpg0H3RAi4M9UBmwPfo-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="jFpg0H3RAi4M9UBmwPfo-62" source="jFpg0H3RAi4M9UBmwPfo-35" target="jFpg0H3RAi4M9UBmwPfo-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jFpg0H3RAi4M9UBmwPfo-39" value="Lee y escribe&amp;nbsp;&lt;br&gt;[JDBC]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="jFpg0H3RAi4M9UBmwPfo-38">
+          <mxGeometry x="0.1375" relative="1" as="geometry">
+            <mxPoint x="15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jFpg0H3RAi4M9UBmwPfo-49" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="jFpg0H3RAi4M9UBmwPfo-62" source="jFpg0H3RAi4M9UBmwPfo-40" target="jFpg0H3RAi4M9UBmwPfo-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jFpg0H3RAi4M9UBmwPfo-50" value="Usa&lt;br&gt;[JSON/HTTPS]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="jFpg0H3RAi4M9UBmwPfo-49">
+          <mxGeometry x="-0.1733" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jFpg0H3RAi4M9UBmwPfo-40" value="APLICACIÓN WEB&lt;br&gt;[Contenedor: Typescript]&lt;br&gt;&lt;br&gt;Permite al usuario final (administrador, docente, estudiantes) acceder a todas las funcionalidades desarrolladas&amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jFpg0H3RAi4M9UBmwPfo-62">
+          <mxGeometry x="230" y="220" width="220" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="jFpg0H3RAi4M9UBmwPfo-57" value="" style="group" connectable="0" vertex="1" parent="jFpg0H3RAi4M9UBmwPfo-62">
+          <mxGeometry x="300" y="50" width="115" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="jFpg0H3RAi4M9UBmwPfo-52" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="jFpg0H3RAi4M9UBmwPfo-57">
+          <mxGeometry width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jFpg0H3RAi4M9UBmwPfo-53" value="[Person]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="jFpg0H3RAi4M9UBmwPfo-57">
+          <mxGeometry x="5" y="40" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jFpg0H3RAi4M9UBmwPfo-56" value="Usuarios (Administrador,&lt;br&gt;Docente, estudiantes)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="jFpg0H3RAi4M9UBmwPfo-57">
+          <mxGeometry x="-35" y="75" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jFpg0H3RAi4M9UBmwPfo-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="jFpg0H3RAi4M9UBmwPfo-62" source="jFpg0H3RAi4M9UBmwPfo-56" target="jFpg0H3RAi4M9UBmwPfo-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jFpg0H3RAi4M9UBmwPfo-60" value="Diagrama de contenedores" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="jFpg0H3RAi4M9UBmwPfo-62">
+          <mxGeometry x="255" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jFpg0H3RAi4M9UBmwPfo-95" value="" style="group" connectable="0" vertex="1" parent="1">
+          <mxGeometry y="1500" width="760" height="830" as="geometry" />
+        </mxCell>
+        <mxCell id="jFpg0H3RAi4M9UBmwPfo-92" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jFpg0H3RAi4M9UBmwPfo-95">
+          <mxGeometry width="760" height="800" as="geometry" />
+        </mxCell>
+        <mxCell id="jFpg0H3RAi4M9UBmwPfo-91" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="jFpg0H3RAi4M9UBmwPfo-95">
+          <mxGeometry x="25" y="240" width="710" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="jFpg0H3RAi4M9UBmwPfo-80" value="WEB API&lt;br&gt;[Contenedor: Java - Spring boot]&lt;br&gt;&lt;br&gt;Permite desarrollar toda la lógica de negocio y acceder a esta a través de API JSON.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jFpg0H3RAi4M9UBmwPfo-95">
+          <mxGeometry x="270" y="50" width="220" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="jFpg0H3RAi4M9UBmwPfo-81" value="Controladores REST&lt;br&gt;[Contenedor: Java - Spring boot]&lt;br&gt;&lt;br&gt;Manejan la entrada y salida de la aplicación, gestionando las solicitudes y enviando las respuestas correspondientes." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jFpg0H3RAi4M9UBmwPfo-95">
+          <mxGeometry x="100" y="260" width="220" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="jFpg0H3RAi4M9UBmwPfo-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="jFpg0H3RAi4M9UBmwPfo-95" source="jFpg0H3RAi4M9UBmwPfo-80" target="jFpg0H3RAi4M9UBmwPfo-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jFpg0H3RAi4M9UBmwPfo-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="jFpg0H3RAi4M9UBmwPfo-95" source="jFpg0H3RAi4M9UBmwPfo-82" target="jFpg0H3RAi4M9UBmwPfo-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jFpg0H3RAi4M9UBmwPfo-98" value="Usan" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="jFpg0H3RAi4M9UBmwPfo-97">
+          <mxGeometry x="-0.2" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jFpg0H3RAi4M9UBmwPfo-82" value="Servicios&lt;br&gt;[Contenedor: Java - Spring boot]&lt;br&gt;&lt;br&gt;Implementan la lógica de negocio, coordinan las operaciones y pueden interactuar con los repositorios para acceder a la base de datos." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jFpg0H3RAi4M9UBmwPfo-95">
+          <mxGeometry x="440" y="260" width="220" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="jFpg0H3RAi4M9UBmwPfo-87" value="interactuan" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="jFpg0H3RAi4M9UBmwPfo-95" source="jFpg0H3RAi4M9UBmwPfo-81" target="jFpg0H3RAi4M9UBmwPfo-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jFpg0H3RAi4M9UBmwPfo-83" value="Repositorios&lt;br&gt;[Contenedor: Java - Spring boot]&lt;br&gt;&lt;br&gt;Abstraen el acceso a la base de datos, proporcionando métodos para realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar)." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jFpg0H3RAi4M9UBmwPfo-95">
+          <mxGeometry x="60" y="430" width="220" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="jFpg0H3RAi4M9UBmwPfo-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="jFpg0H3RAi4M9UBmwPfo-95" source="jFpg0H3RAi4M9UBmwPfo-82" target="jFpg0H3RAi4M9UBmwPfo-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jFpg0H3RAi4M9UBmwPfo-96" value="Usan" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="jFpg0H3RAi4M9UBmwPfo-88">
+          <mxGeometry x="-0.0286" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jFpg0H3RAi4M9UBmwPfo-84" value="Logica de negocio&lt;br&gt;[Contenedor: Java - Spring boot]&lt;br&gt;&lt;br&gt;Realiza la ejecución real de las operaciones de negocio, utilizando los servicios y repositorios según sea necesario." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jFpg0H3RAi4M9UBmwPfo-95">
+          <mxGeometry x="230" y="590" width="220" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="jFpg0H3RAi4M9UBmwPfo-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="jFpg0H3RAi4M9UBmwPfo-95" source="jFpg0H3RAi4M9UBmwPfo-83" target="jFpg0H3RAi4M9UBmwPfo-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jFpg0H3RAi4M9UBmwPfo-85" value="Conexión a la base de datos&lt;br&gt;[Contenedor: Java - Spring boot]&lt;br&gt;&lt;br&gt;Almacena y recupera datos, permitiendo a la aplicación gestionar la información de manera persistente." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jFpg0H3RAi4M9UBmwPfo-95">
+          <mxGeometry x="430" y="430" width="220" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="jFpg0H3RAi4M9UBmwPfo-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="jFpg0H3RAi4M9UBmwPfo-95" source="jFpg0H3RAi4M9UBmwPfo-84" target="jFpg0H3RAi4M9UBmwPfo-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jFpg0H3RAi4M9UBmwPfo-99" value="Interactua" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="jFpg0H3RAi4M9UBmwPfo-90">
+          <mxGeometry x="-0.3405" relative="1" as="geometry">
+            <mxPoint x="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jFpg0H3RAi4M9UBmwPfo-93" value="Backend" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="jFpg0H3RAi4M9UBmwPfo-95">
+          <mxGeometry y="770" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jFpg0H3RAi4M9UBmwPfo-94" value="Diagrama de componentes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="jFpg0H3RAi4M9UBmwPfo-95">
+          <mxGeometry x="295" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jFpg0H3RAi4M9UBmwPfo-109" value="" style="group" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="70" y="2420" width="670" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="jFpg0H3RAi4M9UBmwPfo-104" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jFpg0H3RAi4M9UBmwPfo-109">
+          <mxGeometry width="670" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="jFpg0H3RAi4M9UBmwPfo-107" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="jFpg0H3RAi4M9UBmwPfo-109">
+          <mxGeometry x="44" y="263" width="600" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="jFpg0H3RAi4M9UBmwPfo-101" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;UsuarioController&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Id: Int&lt;br&gt;+ Nombre: String&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Apellido: String&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Correo: String&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ TipoUsuari: String&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;...&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ ObtenerUsuario()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ CrearUsuario(Usuario)&lt;br&gt;+ ActualizarUsuario(Id, Usuario)&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ EliminarUsuario(Id)&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;...&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="jFpg0H3RAi4M9UBmwPfo-109">
+          <mxGeometry x="69" y="293" width="200" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="jFpg0H3RAi4M9UBmwPfo-102" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;HorarioController&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Id: Int&lt;br&gt;+ UsuarioId: Int&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Horario: horario&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ GrupoEstudiantesId: Int&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;...&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;/p&gt;+ ObtenerHorariosPorUsuario(UsuarioId)&lt;br&gt;+ CrearHorarioParaUsuario(UsuarioId, Horario)&lt;br&gt;+ ActualizarHorario(UsuarioId, HorarioId,&amp;nbsp; Horario)&lt;br&gt;+ EliminarHorario(UsuarioId, HorarioId)&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;...&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="jFpg0H3RAi4M9UBmwPfo-109">
+          <mxGeometry x="300" y="293" width="310" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="jFpg0H3RAi4M9UBmwPfo-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="jFpg0H3RAi4M9UBmwPfo-109" source="jFpg0H3RAi4M9UBmwPfo-103" target="jFpg0H3RAi4M9UBmwPfo-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jFpg0H3RAi4M9UBmwPfo-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="jFpg0H3RAi4M9UBmwPfo-109" source="jFpg0H3RAi4M9UBmwPfo-103" target="jFpg0H3RAi4M9UBmwPfo-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jFpg0H3RAi4M9UBmwPfo-103" value="Controladores REST&lt;br&gt;[Contenedor: Java - Spring boot]&lt;br&gt;&lt;br&gt;Manejan la entrada y salida de la aplicación, gestionando las solicitudes y enviando las respuestas correspondientes." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jFpg0H3RAi4M9UBmwPfo-109">
+          <mxGeometry x="210" y="70" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jFpg0H3RAi4M9UBmwPfo-108" value="Diagrama de código" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="jFpg0H3RAi4M9UBmwPfo-109">
+          <mxGeometry x="270" y="10" width="130" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
